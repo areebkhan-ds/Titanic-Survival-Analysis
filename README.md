@@ -1,5 +1,5 @@
-Titanic Survival Prediction
-Project Overview
+# Titanic Survival Prediction
+# Project Overview
 
 The Titanic Survival Prediction project is a Machine Learning application that predicts whether a passenger would survive the Titanic disaster based on historical passenger data.
 
@@ -17,12 +17,12 @@ Model deployment using Streamlit
 
 The trained model is deployed as an interactive web application.
 
-Dataset Information
+# Dataset Information
 
 The dataset used in this project is the Titanic dataset, which contains passenger details and survival outcomes.
 
-Features Used
-Feature	Description
+# Features Used
+# Feature	Description
 Pclass	Passenger class (1 = First, 2 = Second, 3 = Third)
 Sex	Gender of the passenger
 Age	Age of the passenger
@@ -39,11 +39,11 @@ Problem Type: Binary Classification
 
 ['Pclass', 'Sex', 'Age', 'SibSp', 'Parch', 'Fare', 'Embarked']
 
-The trained model is saved as:
+## The trained model is saved as:
 
 titanic_model.pkl
 
-Application Information
+# Application Information
 
 The project includes a Streamlit web application that allows users to:
 
@@ -55,7 +55,7 @@ View prediction results instantly
 
 The application includes a custom user interface with background styling and structured input layout.
 
-Installation and Setup
+## Installation and Setup
 1. Clone the Repository
 git clone <areebkhan-ds/titanic-survival-analysis>
 cd Titanic-Survival-Analysis
